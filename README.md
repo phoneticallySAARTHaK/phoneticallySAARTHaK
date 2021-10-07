@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/say_SAARTHaK?style=social)
-
 ---
-
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python logo" alt="Python Logo" height="200" width="200">
      
 <!--
 **phoneticallySAARTHaK/phoneticallySAARTHaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Twitter Follow](https://img.shields.io/twitter/follow/say_SAARTHaK?style=social)
+
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python logo" alt="Python Logo" height="200" width="200">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
